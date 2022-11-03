@@ -80,10 +80,3 @@ for (a of avengers){
     spanLoop.innerText = `${a} `;
     body.append(spanLoop);
 };
-
-
-
-
-// 14b. Using a loop, add each item from the avengers array as span elements/tags to the bottom of the document/webpage
-
-// When finished, create a repository in the “DOMBasicsExercise” Folder as well as on GitHub. Add and commit everything in the DOMBasicsExercise folder and push it up to your GitHub repository. Then paste the link to your GitHub repository page in the form in google classroom.
